@@ -23,12 +23,16 @@ import os
 import sys
 from socket import *
 
-#CONFIGURACAO DE REDE
-socks = socket(AF_INET, SOCK_DGRAM)
-socks.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)
-
 #argumentos iniciais
 parser = argparse.ArgumentParser()
 parser.add_argument("mode", help="TYPE [1] TO ACTIVE | [2] TO PASSIVE")
 parser.add_argument("", help"")
+
 #Inicio
+
+
+#MODE 1
+
+#MODE 2
+try:
+    os.system(""
