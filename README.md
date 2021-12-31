@@ -1,7 +1,8 @@
 # Conhecimento
 Keep Learning and have happing hacking o/
 
-
+oi
+# oi
 # Install Go Lang
  [+] Criar o diretorio go exportando os arquivos da linguagem
  [+] Adcionar o go as variáveis de ambiente
